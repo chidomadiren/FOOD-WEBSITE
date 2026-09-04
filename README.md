@@ -1,17 +1,27 @@
-# React + Vite
+# Chichie Restaurant - Food Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive website for Chichie Restaurant to showcase our menu, story, and allow customers to book tables and order online.
 
-Currently, two official plugins are available:
+## Live Demo
+[https://food-website.vercel.vick.app](https://food-website.vercel.vick.app) 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
+- **Responsive Menu** - Browse dishes by category with images and prices
+- **About Us** - Story and values of Chichie Restaurant  
+- **Online Table Booking** - Customers can reserve a table
+- **Contact & Location** - Address, phone, opening hours, and Google Maps
+- **Mobile First Design** - Works perfectly on phone, tablet, and desktop
+- **Fast Loading** - Optimized images and deployed on Vercel
 
-## React Compiler
+## Tech Stack
+- **Frontend**: React + Vite
+- **Styling**: Tailwind CSS
+- **Icons**: React Icons
+- **Deployment**: Vercel
+- **Version Control**: Git + GitHub
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Installation
+1. Clone the repo
+   ```bash
+   git clone https://github.com/chidomadiren/food-website.git
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# FOOD-WEBSITE" 
