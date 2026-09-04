@@ -23,5 +23,5 @@ A responsive website for Chichie Restaurant to showcase our menu, story, and all
 ## Installation
 1. Clone the repo
    ```bash
-   git clone https://github.com/chidomadiren/food-website.git
+   git clone https://github.com/chidomadiren/FOOD-WEBSITE.git
 
